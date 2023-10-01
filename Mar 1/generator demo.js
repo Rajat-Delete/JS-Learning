@@ -12,5 +12,5 @@ function* fetchNextElement(){
 
 const iter=fetchNextElement();
 console.log(iter.next());
-console.log(iter.next());
-console.log(iter.next());
+//console.log(iter.next());
+//console.log(iter.next());
